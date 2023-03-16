@@ -17,7 +17,6 @@ public class OperatoryMatematyczne {
         System.out.println("Wynik mnożenia " + multiplication);
         System.out.println("Wynik dzielenia " + division);
         System.out.println("Wynik modulo " + mod);
-
     }
 
 }

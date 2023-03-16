@@ -14,7 +14,8 @@ public class PetlaFor {
             }
         }*/
 
-        for (int j = 0; j <= number; j++)
+        for (int j = 0; j <= number; j++) {
             System.out.println(j + " Będę robił prace domową");
+        }
     }
 }
